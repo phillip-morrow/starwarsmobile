@@ -1,4 +1,6 @@
-﻿namespace StarWarsMobile;
+﻿using StarWarsMobile.Views;
+
+namespace StarWarsMobile;
 
 public partial class AppShell : Shell
 {

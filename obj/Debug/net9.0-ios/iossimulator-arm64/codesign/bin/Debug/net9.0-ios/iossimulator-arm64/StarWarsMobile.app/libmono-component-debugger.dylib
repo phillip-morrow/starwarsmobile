@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/phillipmorrow/Development/StarWarsMobile/bin/Debug/net9.0-ios/iossimulator-arm64/StarWarsMobile.app/libmono-component-debugger.dylib
